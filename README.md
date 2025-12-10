@@ -1,1 +1,2 @@
 # dentistApp
+For this project, we started by getting the outline from the group that made the proposal. We then created a medium-fidelity prototype to show to the other group and get their approval. After we split up the pages between the three of us and made sure we all followed a similar and cohesive design using CSS and linking the style sheet to each file. When everyone was finished, we connected/linked our pages together and performed usability testing to ensure ease of use.
